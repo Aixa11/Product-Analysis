@@ -35,10 +35,10 @@ python Analisis Sentimientos.py
 _Asegúrate de que el archivo Credenciales.py contenga las claves API correctas antes de ejecutar scripts que interactúan con APIs externas._
 
 ## Requisitos
-Python 3.x
-Librerías externas:
-requests
-pandas
-numpy
-beautifulsoup4 (para scraping web)
-sklearn (para análisis de machine learning en algunos scripts)
+- Python 3.x.
+- Librerías externas:
+requests.
+pandas.
+numpy.
+beautifulsoup4 (para scraping web).
+sklearn (para análisis de machine learning en algunos scripts).
